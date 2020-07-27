@@ -1,0 +1,1 @@
+- Evolutionary stable state: Smith JM, Price. The Logic of Animal Conflict. Nature. 1973;246(5427):15-18. doi:[10.1038/246015a0](https://www.nature.com/articles/246015a0)
