@@ -14,3 +14,18 @@
 - 1. Kimura M. On the evolutionary adjustment of spontaneous mutation rates. Genet Res. 1967;9(01):23-34. doi:10.1017/S0016672300010284
 - 1. Hardin G. The Tragedy of the Commons. Science (80- ). 1968;162(3859):1243-1248. doi:10.1126/science.162.3859.1243
 - 1. Prout T. Sufficient Conditions for Multiple Niche Polymorphism. Am Nat. 1968;102(928):493-496. doi:10.1086/282562
+
+Tamar:
+- Genetic load:
+https://www.sciencedirect.com/science/article/pii/S0022519385701671
+- Inbreeding depression: The Evolution of Self-Fertilization and Inbreeding
+Depression in Plants. Ii. Empirical Observations, Lande and Scemske,
+Evolution, 1985.
+http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.1985.tb04078.x/abstract .
+- Selection in alternating environment: Fate of a mutation in a fluctuating
+environment, PNAS 2015, https://www.pnas.org/content/112/36/E5021 .
+- Clonal interference (accumulation of deleterious and favorable mutations
+in asexual populations):
+www.genetics.org/content/genetics/176/3/1759.full.pdf
+- The Evolutionarily Stable Distribution of Fitness Effects, Desai,
+https://www.genetics.org/content/200/1/321
