@@ -15,6 +15,10 @@
 - 1. Hardin G. The Tragedy of the Commons. Science (80- ). 1968;162(3859):1243-1248. doi:10.1126/science.162.3859.1243
 - 1. Prout T. Sufficient Conditions for Multiple Niche Polymorphism. Am Nat. 1968;102(928):493-496. doi:10.1086/282562
 
+Modularity
+1. Clune, J., Mouret, J.-B. J. & Lipson, H. The evolutionary origins of modularity. Proc. R. Soc. B Biol. Sci. 280, 20122863–20122863 (2013).
+2. Kashtan, N. & Alon, U. Spontaneous evolution of modularity and network motifs. Proc. Natl. Acad. Sci. U. S. A. 102, 13773–13778 (2005).
+
 Tamar:
 - Genetic load:
 https://www.sciencedirect.com/science/article/pii/S0022519385701671
@@ -29,3 +33,11 @@ in asexual populations):
 www.genetics.org/content/genetics/176/3/1759.full.pdf
 - The Evolutionarily Stable Distribution of Fitness Effects, Desai,
 https://www.genetics.org/content/200/1/321
+
+
+Demography:
+1. Pollak, E. With selection for fecundity the mean fitness does not necessarily increase. Genetics 90, 383–389 (1978).
+2. Hadeler, K. P. & Liberman, U. Selection Models with Fertility Differences. J. Math. Biol. 2, 19–32 (1975).
+3. PENROSE, L. S. The meaning of fitness in human populations. Ann. Eugen. 14, 301–304 (1949).
+4. Feldman, M. W., Christiansen, F. B. & Liberman, U. On some models of fertility selection. Genetics 105, 1003–1010 (1983).
+1. Gerber, L. R. & White, E. R. Two-sex matrix models in assessing population viability: When do male dynamics matter? J. Appl. Ecol. 51, 270–278 (2014).
